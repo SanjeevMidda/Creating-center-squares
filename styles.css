@@ -1,0 +1,57 @@
+* {
+    margin:0px;
+    font-family: Helvetica, sans-serif;
+}
+
+.square-one {
+border: 1px solid green;
+margin: 0 auto;
+height: 500px;
+width: 80%;
+}
+
+.square-two {
+border: 1px solid brown;
+margin: 0 auto;
+width:80%;
+height:75%;
+margin-top: 63px;
+}
+
+.square-three {
+border: 1px solid yellow;
+width: 80%;
+height: 75%;
+margin: 0 auto;
+margin-top: 45px;
+}
+
+.square-four {
+border: 1px solid blue;
+margin: 0 auto;
+width: 80%;
+height: 75%;
+margin-top: 33px;
+}
+
+.square-five {
+    border: 1px solid purple;
+    margin: 0 auto;
+    width: 75%;
+    height: 65%;
+    margin-top: 36px;
+}
+
+.square-five:hover {
+    background-color: purple;
+}
+
+.wrapper {
+    position: relative;
+    top: 100px;
+}
+
+h1 {
+    margin: 10px;
+    margin-left: 77px;
+}
